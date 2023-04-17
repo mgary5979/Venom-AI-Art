@@ -1,7 +1,7 @@
 # Venom-AI-Art
 A venom AI art gallery created with react and cloudinary
 
-
+![Web capture_12-4-2023_1053_localhost](https://user-images.githubusercontent.com/111018323/232597880-6edde183-c4ec-4bc8-bc58-1a4382202994.jpeg)
 
 # Getting Started with Create React App
 
